@@ -1,0 +1,17 @@
+name: EODC
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - dask
+  - dask-gateway
+  - dask-expr
+  - graphviz
+  - python-graphviz
+  - xarray
+  - pystac-client
+  - odc-stac
+  - odc-geo
