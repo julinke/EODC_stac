@@ -15,4 +15,7 @@ dependencies:
   - pystac-client
   - odc-stac
   - odc-geo
+  - zarr
+
+  #conda env update --file EODCenv.yml --prune
   
